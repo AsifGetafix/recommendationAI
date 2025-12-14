@@ -57,7 +57,7 @@ st.markdown(
 
 st.set_page_config(page_title="TechPay.ai Recommendation Engine", layout="wide")
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "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"
 API_URL = "https://api.groq.com/openai/v1/chat/completions"
 MODEL = "llama-3.3-70b-versatile"
 
